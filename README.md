@@ -36,6 +36,7 @@ This project aims to optimize water usage in agriculture by automating irrigatio
 ---
 
 📌 Acknowledgment
+
 This project is part of a 4-week internship program organized by **Edunet Foundation** in collaboration with **AICTE** and **Shell**.
 The base code and dataset were provided by the program instructors. All rights to the original content belong to their respective creators.
 Minor improvements and debugging (like feature importance visualization and error handling) were made by me as part of the learning and submission process.
