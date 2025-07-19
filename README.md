@@ -42,12 +42,6 @@ The base code was provided by the program instructor. All rights to the original
 
 ---
 
-🔗 GitHub Repository
-
-[👉 View Project on GitHub](https://github.com/CodeCraftsman-6/Smart_Irrigation_AICTE_Shell)
-
----
-
 📬 Contact
 
 For queries or feedback, feel free to reach out via sampreetimohapatra@gmail.com
