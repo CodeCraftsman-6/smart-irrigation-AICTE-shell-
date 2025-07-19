@@ -50,4 +50,4 @@ The base code was provided by the program instructor. All rights to the original
 
 📬 Contact
 
-For queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/CodeCraftsman-6/Smart_Irrigation_AICTE_Shell/issues).
+For queries or feedback, feel free to reach out via sampreetimohapatra@gmail.com
